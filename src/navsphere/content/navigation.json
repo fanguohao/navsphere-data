@@ -1138,6 +1138,14 @@
           "description": "Explore 31+ stunning design styles rendered from the same data. Get AI-ready prompts to recreate any aesthetic in your own projects.",
           "icon": "https://www.designprompts.dev/favicon.svg",
           "enabled": true
+        },
+        {
+          "id": "1780490680281",
+          "title": "The Best Landing Page Design Inspiration, Templates and More | Landingfolio",
+          "href": "https://www.landingfolio.com/",
+          "description": "Looking for landing page inspiration? We",
+          "icon": "https://www.landingfolio.com/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
