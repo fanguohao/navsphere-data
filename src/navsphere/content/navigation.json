@@ -156,6 +156,14 @@
           "description": "访问 codex2api.ai2api.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=codex2api.ai2api.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1780484411976_9heli8jkx",
+          "title": "Codex2api",
+          "href": "http://codex2api.ai2api.cn",
+          "description": "访问 codex2api.ai2api.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=codex2api.ai2api.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
