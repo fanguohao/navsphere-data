@@ -1122,7 +1122,16 @@
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
-      "items": [],
+      "items": [
+        {
+          "id": "1780490557527",
+          "title": "UI Style Prompt - AI UI 设计风格提示词库",
+          "href": "https://www.uiprompt.site/zh/styles",
+          "description": "探索 70+ 种现代 UI 设计风格，获取专业 AI 生成提示词。包含玻璃态、新拟物、扁平化、赛博朋克等流行设计系统，帮助您的 AI 生成独特 UI。",
+          "icon": "https://www.uiprompt.site/favicon-32x32.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "8_1",
