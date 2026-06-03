@@ -158,40 +158,7 @@
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
-      "items": [
-        {
-          "id": "1780490557527",
-          "title": "UI Style Prompt - AI UI 设计风格提示词库",
-          "href": "https://www.uiprompt.site/zh/styles",
-          "description": "探索 70+ 种现代 UI 设计风格，获取专业 AI 生成提示词。包含玻璃态、新拟物、扁平化、赛博朋克等流行设计系统，帮助您的 AI 生成独特 UI。",
-          "icon": "https://www.uiprompt.site/favicon-32x32.png",
-          "enabled": true
-        },
-        {
-          "id": "1780490608113",
-          "title": "Design Prompts - AI-Powered Design Style Explorer",
-          "href": "https://www.designprompts.dev/",
-          "description": "Explore 31+ stunning design styles rendered from the same data. Get AI-ready prompts to recreate any aesthetic in your own projects.",
-          "icon": "https://www.designprompts.dev/favicon.svg",
-          "enabled": true
-        },
-        {
-          "id": "1780490680281",
-          "title": "The Best Landing Page Design Inspiration, Templates and More | Landingfolio",
-          "href": "https://www.landingfolio.com/",
-          "description": "Looking for landing page inspiration? We",
-          "icon": "https://www.landingfolio.com/favicon.ico",
-          "enabled": true
-        },
-        {
-          "id": "1780490774265",
-          "title": "Dribbble - Discover the World’s Top Designers &amp; Creative Professionals",
-          "href": "https://dribbble.com/",
-          "description": "Find Top Designers &amp; Creative Professionals on Dribbble. We are where designers gain inspiration, feedback, community, and jobs. Your best resource to discover and connect with designers worldwide.",
-          "icon": "https://dribbble.com/images/favicon.ico",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "8_1",
@@ -363,6 +330,48 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "8_4",
+          "title": "UI设计",
+          "href": "#UI设计",
+          "icon": "",
+          "description": "",
+          "items": [
+            {
+              "id": "1780490557527",
+              "title": "UI Style Prompt - AI UI 设计风格提示词库",
+              "href": "https://www.uiprompt.site/zh/styles",
+              "description": "探索 70+ 种现代 UI 设计风格，获取专业 AI 生成提示词。包含玻璃态、新拟物、扁平化、赛博朋克等流行设计系统，帮助您的 AI 生成独特 UI。",
+              "icon": "https://www.uiprompt.site/favicon-32x32.png",
+              "enabled": true
+            },
+            {
+              "id": "1780490608113",
+              "title": "Design Prompts - AI-Powered Design Style Explorer",
+              "href": "https://www.designprompts.dev/",
+              "description": "Explore 31+ stunning design styles rendered from the same data. Get AI-ready prompts to recreate any aesthetic in your own projects.",
+              "icon": "https://www.designprompts.dev/favicon.svg",
+              "enabled": true
+            },
+            {
+              "id": "1780490680281",
+              "title": "The Best Landing Page Design Inspiration, Templates and More | Landingfolio",
+              "href": "https://www.landingfolio.com/",
+              "description": "Looking for landing page inspiration? We",
+              "icon": "https://www.landingfolio.com/favicon.ico",
+              "enabled": true
+            },
+            {
+              "id": "1780490774265",
+              "title": "Dribbble - Discover the World’s Top Designers &amp; Creative Professionals",
+              "href": "https://dribbble.com/",
+              "description": "Find Top Designers &amp; Creative Professionals on Dribbble. We are where designers gain inspiration, feedback, community, and jobs. Your best resource to discover and connect with designers worldwide.",
+              "icon": "https://dribbble.com/images/favicon.ico",
+              "enabled": true
+            }
+          ],
+          "enabled": true
         }
       ]
     },
@@ -1518,6 +1527,14 @@
               "href": "https://www.figma.com/",
               "description": "在线UI设计工具",
               "icon": "/assets/images/logos/figma.webp",
+              "enabled": true
+            },
+            {
+              "id": "5_2",
+              "title": "Stitch",
+              "href": "https://stitch.withgoogle.com/",
+              "description": "Google Labs 推出的 AI 设计工具，通过文字描述或图片生成 UI 设计，支持导出 Figma 和前端代码",
+              "icon": "https://stitch.withgoogle.com/favicon.ico",
               "enabled": true
             }
           ],
