@@ -1130,6 +1130,14 @@
           "description": "探索 70+ 种现代 UI 设计风格，获取专业 AI 生成提示词。包含玻璃态、新拟物、扁平化、赛博朋克等流行设计系统，帮助您的 AI 生成独特 UI。",
           "icon": "https://www.uiprompt.site/favicon-32x32.png",
           "enabled": true
+        },
+        {
+          "id": "1780490608113",
+          "title": "Design Prompts - AI-Powered Design Style Explorer",
+          "href": "https://www.designprompts.dev/",
+          "description": "Explore 31+ stunning design styles rendered from the same data. Get AI-ready prompts to recreate any aesthetic in your own projects.",
+          "icon": "https://www.designprompts.dev/favicon.svg",
+          "enabled": true
         }
       ],
       "subCategories": [
