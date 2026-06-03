@@ -1146,6 +1146,14 @@
           "description": "Looking for landing page inspiration? We",
           "icon": "https://www.landingfolio.com/favicon.ico",
           "enabled": true
+        },
+        {
+          "id": "1780490774265",
+          "title": "Dribbble - Discover the World’s Top Designers &amp; Creative Professionals",
+          "href": "https://dribbble.com/",
+          "description": "Find Top Designers &amp; Creative Professionals on Dribbble. We are where designers gain inspiration, feedback, community, and jobs. Your best resource to discover and connect with designers worldwide.",
+          "icon": "https://dribbble.com/images/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
