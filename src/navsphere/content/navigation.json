@@ -1200,7 +1200,7 @@
               "title": "ITDOG",
               "href": "https://www.itdog.cn",
               "description": "检测延迟、丢包、路由与全国多地网络质量。",
-              "icon": "/assets/images/default-website-icon.png",
+              "icon": "https://www.google.com/s2/favicons?domain=www.itdog.cn&sz=64",
               "enabled": true
             }
           ]
